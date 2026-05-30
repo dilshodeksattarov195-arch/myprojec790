@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercarse",
+        "uuid": 3784100,
+        "checksum": "urrstm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
